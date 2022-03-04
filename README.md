@@ -1,4 +1,4 @@
-# populatuion-of-countries usung Rapid - API
+# Populatuion Of Countries using Rapid - API
 
 When the user has entered the name of a country and press add, application retrieve the population data from the API, and adds the name of the country and its population figure to the list.
 
